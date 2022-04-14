@@ -1,0 +1,3 @@
+﻿  Square Gradient.cpp
+C:\Users\Arbitroy\source\repos\Square Gradient\Square Gradient.cpp(38,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Square Gradient.vcxproj -> C:\Users\Arbitroy\source\repos\Square Gradient\Debug\Square Gradient.exe
